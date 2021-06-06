@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Clebra.Loopus.Core\Clebra.Loopus.Core.csproj" />
+      <ProjectReference Include="..\Clebra.Loopus.DataAccess\Clebra.Loopus.DataAccess.csproj" />
+      <ProjectReference Include="..\Clebra.Loopus.Model\Clebra.Loopus.Model.csproj" />
+    </ItemGroup>
+
+</Project>

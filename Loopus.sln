@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clebra.Loopus.Model", "Clebra.Loopus.Model\Clebra.Loopus.Model.csproj", "{7668169A-DA96-46FD-8DB5-97CE194F6ADD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clebra.Loopus.DataAccess", "Clebra.Loopus.DataAccess\Clebra.Loopus.DataAccess.csproj", "{EC9A4D6A-0BD1-4B55-965A-231E6EF28FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clebra.Loopus.API", "Clebra.Loopus.API\Clebra.Loopus.API.csproj", "{882DA89B-425B-480A-B6EA-FD1541A5A259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clebra.Loopus.Core", "Clebra.Loopus.Core\Clebra.Loopus.Core.csproj", "{6A21440A-6E90-4C3F-940C-F7D2A25AA183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clebra.Loopus.Service", "Clebra.Loopus.Service\Clebra.Loopus.Service.csproj", "{BCF99547-D6CE-4501-BAF9-E6EDFD5B2B00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7668169A-DA96-46FD-8DB5-97CE194F6ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7668169A-DA96-46FD-8DB5-97CE194F6ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7668169A-DA96-46FD-8DB5-97CE194F6ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7668169A-DA96-46FD-8DB5-97CE194F6ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9A4D6A-0BD1-4B55-965A-231E6EF28FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9A4D6A-0BD1-4B55-965A-231E6EF28FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9A4D6A-0BD1-4B55-965A-231E6EF28FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9A4D6A-0BD1-4B55-965A-231E6EF28FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882DA89B-425B-480A-B6EA-FD1541A5A259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882DA89B-425B-480A-B6EA-FD1541A5A259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882DA89B-425B-480A-B6EA-FD1541A5A259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882DA89B-425B-480A-B6EA-FD1541A5A259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A21440A-6E90-4C3F-940C-F7D2A25AA183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A21440A-6E90-4C3F-940C-F7D2A25AA183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A21440A-6E90-4C3F-940C-F7D2A25AA183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A21440A-6E90-4C3F-940C-F7D2A25AA183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF99547-D6CE-4501-BAF9-E6EDFD5B2B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF99547-D6CE-4501-BAF9-E6EDFD5B2B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF99547-D6CE-4501-BAF9-E6EDFD5B2B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF99547-D6CE-4501-BAF9-E6EDFD5B2B00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C917435-D5C0-4B6C-ABCE-6FF2ADC2A599}
+	EndGlobalSection
+EndGlobal
